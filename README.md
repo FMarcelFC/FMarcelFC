@@ -11,7 +11,3 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fmarcelfc&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fmarcelfc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
