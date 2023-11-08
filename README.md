@@ -12,5 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fmarcelfc&theme=dark&hide_border=false)<br/>
 
 # 💻 My Work:
-![alt text] (https://github.com/FMarcelFC/images/blob/main/1.jpg)
+![alt text] (https://github.com/FMarcelFC/images/blob/main/1.jpg?raw=true)
 
