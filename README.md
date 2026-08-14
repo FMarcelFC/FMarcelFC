@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hello,my name is Freddy Flores, I'm a software developer with 6 years of experience.<br>💻 I'm driven by problem solving, I found at a very young age a passion for solving logical problems, that's how I started in the tech world.<br>🌐 I've worked in Angular and Flutter (2 published apps) projects, both with PHP backend hosted in an Apache Server.<br>🌱 I'm currently learning Java and FastAPI with Python to make backend projects.<br>🚀 I would love to collaborate with other devs in open source projects. Feel free to contact me.<br>
 
 
